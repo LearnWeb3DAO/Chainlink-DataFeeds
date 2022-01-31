@@ -1,0 +1,5 @@
+web/node_modules
+web/.env
+web/.next
+
+eth/node_modules
