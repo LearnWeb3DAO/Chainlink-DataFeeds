@@ -755,4 +755,4 @@ What good is a website if you cannot share it with others? Let's work on deployi
 
 Hopefully you enjoyed this tutorial.
 Feel free to go artistic on the frontend and add animations or whatever! :D
-Don't forget
+Don't forget to share your verifiable on-chain coin flip website in the `#showcase` channel on Discord ❤️
